@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="left">Manan Kumar</h1>
 
-<!--
-**MananCodes-Dev/MananCodes-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <b>Computer Science Student · Software · Systems · Technology</b><br>
+  B.Tech CSE-AI/ML · Haldia Institute of Technology · 2026–2030
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About
+
+I’m a computer science student interested in building software
+and understanding the systems behind it.
+
+Currently focused on programming fundamentals, computer science,
+and practical engineering through projects.
+
+### Currently working on
+
+- C programming and problem solving
+- Python
+- Data Structures & Algorithms
+- Git and GitHub
+- Linux
+- Software engineering fundamentals
+
+### Selected work
+
+| Project | Description |
+|---|---|
+| `c-programming` | C programs and fundamental concepts |
+| `python-projects` | Small tools and experiments |
+| `student-management-system` | CLI application built in C |
+| `data-structures` | Implementations and practice |
+
+More projects will appear here as I build them.
+
+### Approach
+
+**Learn → Build → Understand → Improve**
+
+I prefer building things from the fundamentals and understanding
+why they work rather than simply making them work.
+
+### Connect
+
+[LinkedIn](YOUR_LINKEDIN_URL)
