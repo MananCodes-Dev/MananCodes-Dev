@@ -51,4 +51,4 @@ More added as I build. ⭐ if something here is useful to you.
 
 ### Connect
 
-📫 Reach me on [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_HANDLE) — always open to talking about projects, learning resources, or collaboration.
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/manan-kumar-a1974543a/) — always open to talking about projects, learning resources, or collaboration.
