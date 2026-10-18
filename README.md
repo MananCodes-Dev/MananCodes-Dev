@@ -1,54 +1,51 @@
-<h1 align="left">Hi, I'm Manan Kumar 👋</h1>
+# Hi, I'm Manan Kumar 👋
 
-<p align="left">
-  <b>Computer Science Student · AI/ML · Systems Programming</b><br>
-  B.Tech CSE (AI/ML) · Haldia Institute of Technology · 2026–2030
-</p>
+**B.Tech CSE (AI/ML) student · Python · Static analysis · Building toward AI/ML engineering**
+Haldia Institute of Technology · 2026–2030
 
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:manank3326@gmail.com><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manan-kumar-a1974543a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manank3326@gmail.com)
 
 ---
 
-### About
+## About
 
-I'm a CS student building toward AI/ML, currently laying the groundwork
-through C, Python, and core data structures — with a habit of digging
-into *why* something works before moving on.
+I'm early in my CS degree and building the foundation for AI/ML engineering the slow way: writing small, testable tools in Python and understanding *why* they work before moving on.
+My projects so far share a pattern. They are rule-based, explainable, tested, and honest about their limits. That is deliberate. I want a solid engineering baseline before I add machine learning on top of it.
 
-**Learn → Build → Understand → Improve**
+**Learn → Build → Test → Document → Improve**
 
-### Currently working on
+## Projects
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+| Project | What it does | Highlights |
+| --- | --- | --- |
+| [**SPECWATCH**](https://github.com/MananCodes-Dev/SPECWATCH) | Static-analysis tool that checks Python code examples in Markdown docs against real function signatures and flags missing or invalid arguments. | Uses Python's `ast` module (never executes the examples) · handles keyword-only args and literal `*`/`**` unpacking · 18 unit tests · 22-case benchmark script · documented limitations |
+| [**ScamSieve**](https://github.com/MananCodes-Dev/ScamSieve) | Rule-based suspicious-message analyzer with a Tkinter desktop GUI and a CLI. Flags urgency language, financial requests, sensitive-info requests and suspicious links, and shows which phrases triggered each warning. | Regex with word boundaries · explainable output · separated analysis logic from GUI · 10 unit tests · stdlib only |
+
+## Tech I'm working with
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-- Data Structures & Algorithms — problem solving, daily practice
-- Software engineering fundamentals — version control, clean code habits
-- Early steps into AI/ML foundations (math + Python groundwork)
+`ast` · `re` · `unittest` · Tkinter · Git/GitHub workflows (branches, merges)
+Also learning: C fundamentals, data structures & algorithms, math for ML
 
-### Selected projects
+## Currently
 
-| Project | What it does |
-|---|---|
-| [`student-management-system`](https://github.com/MananCodes-Dev/student-management-system) | CLI app in C to add/search/update student records — my first end-to-end C project, main challenge was file I/O and struct-based storage |
-| [`data-structures`](https://github.com/MananCodes-Dev/data-structures) | From-scratch implementations of linked lists, stacks, trees — built to understand internals, not just use library versions |
-| [`c-programming`](https://github.com/MananCodes-Dev/c-programming) | Programs covering core C concepts: pointers, memory, recursion |
-| [`python-projects`](https://github.com/MananCodes-Dev/python-projects) | Small scripts and tools while learning Python idioms |
+- Improving SPECWATCH: attribute calls, imported functions, stricter benchmark assertions
+- Expanding ScamSieve's tests and building a small documented test dataset to measure false positives/negatives
+- Daily DSA practice
+- Building the math and Python groundwork for ML
 
-More added as I build. ⭐ if something here is useful to you.
+## Where this is heading
 
-### GitHub stats
+A planned next step is to compare ScamSieve's rule-based baseline against a simple ML classifier, so any ML claim is backed by measured results.
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MananCodes-Dev&show_icons=true&theme=default" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MananCodes-Dev" height="165"/>
-</p>
+## GitHub stats
 
-### Connect
+![Stats](https://github-readme-stats.vercel.app/api?username=MananCodes-Dev&show_icons=true&theme=default)
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/manan-kumar-a1974543a/) — always open to talking about projects, learning resources, or collaboration.
+---
+
+📫 Open to talking about projects, learning resources, or collaboration. Reach me on [LinkedIn](https://www.linkedin.com/in/manan-kumar-a1974543a/).
